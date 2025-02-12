@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🎓Образование: 3 курс ФРКТ МФТИ направления ПМФ. Кафедра радиолокации, управления и информатики.
+
+Моё *резюме*.
+
+Технологии
+![image](https://github.com/user-attachments/assets/026541f1-51e1-4303-96b1-7398e0e7ac4b)
+
+
 <!--
 **golenn/golenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
