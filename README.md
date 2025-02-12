@@ -1,24 +1,12 @@
-## Hi there 👋
+# Здравствуй! Меня зовут Никита
 
-🎓Образование: 3 курс ФРКТ МФТИ направления ПМФ. Кафедра радиолокации, управления и информатики.
-
-Моё *резюме*.
-
-Технологии
-![image](https://github.com/user-attachments/assets/026541f1-51e1-4303-96b1-7398e0e7ac4b)
-
+🎓Образование: 3 курс ФРКТ МФТИ направления "Прикладная математика и физика". Студент кафедры радиолокации, управления и информатики.
 
 <!--
-**golenn/golenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Моё резюме.
 -->
+
+## Технологии и инструменты
+* Python
+* NumPy, Pandas, Matplotlib
+* GitHub, Jupyter
